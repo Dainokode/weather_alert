@@ -28,7 +28,6 @@ for data in hourly_data:
     will_rain = True
 
 
-
 my_email = "your email"
 password = "your password"
 receiver = "receiver email"
